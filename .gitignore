@@ -1,9 +1,7 @@
 # MyList
 .idea/
 .target/
-TaskJDBC.iml
-spring-beans.iml
-PP_2_1_4_SpringBeans.iml
+spring-types-of-wiring.iml
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij
