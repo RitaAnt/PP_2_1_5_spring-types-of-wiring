@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+#My list
+.target/
+TaskJDBC.iml
+spring-beans.iml
+PP_2_1_4_SpringBeans.iml
+=======
 # MyList
 .idea/
+>>>>>>> 06d61d3ad7c39932c9fab9c1c9715141c1a31857
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij
